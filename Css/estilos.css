@@ -1,0 +1,21 @@
+body
+{
+    color: red;
+    text-align: center;
+    font-family: Arial;
+
+}
+
+#container
+{
+    width: 70%;
+
+    padding: 1em;
+
+    align-content: center;
+
+    border: 1px solid blue;
+
+    margin: auto;
+
+}
